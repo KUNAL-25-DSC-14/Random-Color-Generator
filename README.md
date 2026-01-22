@@ -5,7 +5,7 @@ It dynamically generates multiple color blocks, each displaying a unique hex col
 
 🚀 Live Demo
 
-👉 View Project:
+👉  site is live at https://kunal-25-dsc-14.github.io/Random-Color-Generator/
 
 🛠️ Technologies Used
 
